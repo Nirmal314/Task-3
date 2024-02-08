@@ -1,0 +1,40 @@
+.mx-7 {
+  margin: 0 6rem;
+}
+.box {
+  height: 100px;
+  width: 20%;
+  background-color: aqua;
+}
+
+.section-1,
+.section-2,
+.section-3,
+.section-4,
+.section-5,
+.section-6 {
+  height: 37.5vh;
+}
+.sidebar {
+  background-color: #ffcccc;
+  height: 75vh;
+}
+
+.section-1 {
+  background-color: #ffd4c7;
+}
+.section-2 {
+  background-color: #bab9e2;
+}
+.section-3 {
+  background-color: #d7bdbd;
+}
+.section-4 {
+  background-color: #e1ffc3;
+}
+.section-5 {
+  background-color: #77dff5;
+}
+.section-6 {
+  background-color: #d7d4bd;
+}
