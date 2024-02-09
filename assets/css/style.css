@@ -8,6 +8,13 @@
   }
 }
 
+@media (max-width: 562px) {
+  .mx-custom-auto {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}
+
 .section-1,
 .section-2,
 .section-3,
